@@ -449,3 +449,4 @@ http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OxIKeaX.jpg" group-title="Sport",GOLTV
 https://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/master.m3u8
+,
